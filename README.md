@@ -1,3 +1,10 @@
+原作者ShikiEiki
+现在Fork，暂无继续进行计划。
+
+以下是原作者部分
+
+----
+
 # GFTools
 ver 0.11
 
